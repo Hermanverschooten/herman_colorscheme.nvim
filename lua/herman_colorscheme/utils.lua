@@ -18,7 +18,7 @@ utils.load = function()
 
 	vim.o.background = "dark"
 	vim.o.termguicolors = true
-	vim.g.colors_name = "herman_colorscheme"
+	vim.g.colors_name = "herman-colorscheme"
 
 	local syntax = theme.load_syntax()
 
