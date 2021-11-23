@@ -6,9 +6,9 @@ local generate = function ()
 		colors = {
 			vscNone = 'NONE',
 			vscFront = '#D4D4D4',
-			vscBack = '#1E1E1E',
+			vscBack = '#000000',
 
-			vscTabCurrent = '#1E1E1E',
+			vscTabCurrent = '#000000',
 			vscTabOther = '#2D2D2D',
 			vscTabOutside = '#252526',
 
